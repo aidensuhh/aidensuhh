@@ -1,5 +1,5 @@
 ## Hi there 👋
-I am Aiden, a first year student from the University of Waterloo, double majoring in Computer Science and Finance!
+I am Aiden, a University of Waterloo student, double majoring in Computer Science and Finance!
 
 <!--
 **aidensuhh/aidensuhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
