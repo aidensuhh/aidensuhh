@@ -108,6 +108,7 @@
   </a>
 </p>
 
+<br>
 <h2 align="center">Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=aidensuhh&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
