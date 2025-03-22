@@ -61,7 +61,7 @@
     <img src="https://canada1.discourse-cdn.com/flex035/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_992x1000.png" alt="threejs" width="40" height="40"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
+    <img src="https://img.icons8.com/?size=45&id=4PiNHtUJVbLs&format=png&color=000000" alt="tailwind" class="w-10 h-10" />
   </a>
   <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/palletsprojects_flask/palletsprojects_flask-icon.svg" alt="flask" width="40" height="40"/>
