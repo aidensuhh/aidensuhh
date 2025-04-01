@@ -2,7 +2,7 @@
 <h3 align="center">I am studying Computer Science and Finance at the University of Waterloo.</h3>
 <br>
 
-<p align="center">👨‍💻 View my experience & projects @ <a href="https://aidensuh.com/">aidensuh.com</a></p>
+<p align="center">👨‍💻 View my experience & projects @ <a href="https://aidensuh.com/">aidensuh.com</a> & <a href="https://qidensuh.com/">qidensuh.com</a></p>
 
 <p align="center">💬 Email me @ <a href="mailto:aidenmsuh06@gmail.com">aidenmsuh06@gmail.com</a></p>
 
